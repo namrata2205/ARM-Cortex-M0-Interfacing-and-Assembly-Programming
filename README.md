@@ -53,5 +53,5 @@ The project report contains the relevant **programs, program screenshots, flowch
 
 ## Author
 
-**Namrata Shrikrushna Thorat**
-Electronics and Computer Science Engineering
+- **Namrata Shrikrushna Thorat**
+- Electronics and Computer Science Engineering
